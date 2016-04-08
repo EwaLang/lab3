@@ -1,3 +1,3 @@
 all:
-	g++ *.cpp -o lab3
+	g++ *.cpp -std=c++0x -o lab3
 	./lab3 3
